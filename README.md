@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website and Mobile application Development, Computer Science.
 - 🌱 I’m currently learning how to integrate back end services into my projects.
 - 💞️ I’m looking to collaborate on some interesting projects!
-- 📫 How to reach me (You can reach me by sending emails to my email account: soongmingliang647@gmail.com)
+- 📫 How to reach me (By sending emails to my email account: soongmingliang647@gmail.com)
 
 <!---
 SoongMingLiang/SoongMingLiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
