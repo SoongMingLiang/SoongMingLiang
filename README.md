@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoongMingLiang
-- 👀 I’m interested in Website and Mobile application Development, Computer Science.
+- 👀 I’m interested in WebApp and Mobile application Development, Computer Science.
 - 🌱 I’m currently learning how to integrate back end services into my projects.
 - 💞️ I’m looking to collaborate on some interesting projects!
 - 📫 How to reach me (By sending emails to my email account: soongmingliang647@gmail.com)
