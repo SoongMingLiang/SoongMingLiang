@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on some interesting projects!
 - 📫 How to reach me (By sending emails to my email account: soongmingliang647@gmail.com)
 
+- Check out my portfolio website! (https://soong-ming-liang-portfolio.vercel.app/)
+
 <!---
 SoongMingLiang/SoongMingLiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
